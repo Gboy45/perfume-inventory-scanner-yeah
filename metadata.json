@@ -1,0 +1,10 @@
+{
+  "name": "Aura Parfums - Boutique Inventory & Sales",
+  "description": "Boutique fragrance inventory dashboard, barcode scanner, sales ledger, and shelf management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
